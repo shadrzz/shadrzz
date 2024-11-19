@@ -1,4 +1,4 @@
-<h1 align="center">💻 shadrrz - Frontend developer </h1>
+<h1 align="center">💻 shadrzz - Frontend developer </h1>
 
 <h3 align="center">Technologies</h1>
 <div align="center">
